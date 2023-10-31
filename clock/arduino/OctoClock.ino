@@ -8,9 +8,9 @@
 #include <TM1637Display.h>
 #include <Adafruit_NeoPixel.h>
 
-Adafruit_NeoPixel strip = Adafruit_NeoPixel(60, 4, NEO_GRB + NEO_KHZ800);
-TM1637Display avg_12hr(5, 6);
-TM1637Display current_wholesale(8,9);
+Adafruit_NeoPixel strip = Adafruit_NeoPixel(60, 25, NEO_GRB + NEO_KHZ800);
+TM1637Display avg_12hr(33, 32);
+TM1637Display current_wholesale(19,23);
 
 const char* ssid = "xxx";
 const char* password = "xxx";

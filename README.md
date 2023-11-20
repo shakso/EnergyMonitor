@@ -1,5 +1,5 @@
 # Energy Monitors
-All files/scripts for implementing the energy monitor and Octopus Agile rate picture frames featured on [alexshakespeare.com](https://alexshakespeare.com) and [YouTube](https://youtube.com).
+All files/scripts for implementing the energy monitor and Octopus Agile rate picture frames featured on [alexshakespeare.com](https://alexshakespeare.com/2023/11/octoclock-and-old-school-energy-meter/) and [YouTube](https://youtu.be/AiZF2G-Lx44).
 
 The clock/ directory contains the files to implement the following:
 ![N|Solid](https://github.com/shakso/EnergyMonitor/raw/main/clock/Clock.jpg)
